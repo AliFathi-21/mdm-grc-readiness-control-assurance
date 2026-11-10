@@ -126,7 +126,6 @@ MDM GRC Readiness & Control Assurance Case Study.pdf
 deliverables/      one PDF per deliverable, MDM-D01 to MDM-D14
 ```
 
-All documents are generated from one master document, so every PDF is rebuilt from the same source after any change.
 
 ## License
 
